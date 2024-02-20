@@ -1,5 +1,5 @@
 -  Hi I’m @pr1shaaaa
--  I’m interested in 
+-  I’m interested in Web Development
 -  I’m currently learning Information Technology
 -  I’m looking to collaborate on Web Development and python programming
 -  Pronouns: she/her
